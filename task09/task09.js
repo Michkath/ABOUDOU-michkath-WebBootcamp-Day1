@@ -11,6 +11,3 @@ function  capitalizeWords(str) {
     }
     return arr.join(" ");
 }
-const sentence = "the quick brown fox";
-const capitalizedSentence = capitalizeWords(sentence);
-console.log(`Capitalized sentence: ${capitalizedSentence}`);

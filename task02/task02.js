@@ -12,6 +12,3 @@ let a = 0;
         return true
     }        
 }
-const number = 9;
-const isNumberPrime = isPrime(number);
-console.log(`Is ${number} prime? ${isNumberPrime}`);

@@ -9,8 +9,3 @@ if (tab[i] > nb){
 }
 }return nb;
     }
-
-const array = [5, 2, 9, 1, 10];
-//const array = [];
-const largestElement = findLargestElement(array);
-console.log(`The largest element in the array is: ${largestElement}`);

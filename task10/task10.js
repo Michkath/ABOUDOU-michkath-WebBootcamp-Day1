@@ -11,8 +11,3 @@ const person = {
     age: 30,
     occupation: "Engineer"
   };
-  
-  displayProperty(person, "name");
-  displayProperty(person, "age");
-  displayProperty(person, "occupation");
-  displayProperty(person, "address");
